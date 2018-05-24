@@ -1,2 +1,0 @@
-include ':app', ':HooweSDK'
-project(':HooweSDK').projectDir = new File('../HooweSDK')
